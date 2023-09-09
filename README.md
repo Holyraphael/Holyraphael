@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Holyraphael
-- 👀 I’m interested in learning cyber security
+- 👀 I’m interested in learning networking
 - 🌱 I’m currently learning C# and java
-- 💞️ I’m looking to collaborate on the person will teach me more on cyber sercurity
+- 💞️ I’m looking to collaborate on the person will teach me more on networking
 - 📫 You can reach me through whatsapp- 08107344783
 
 <!---
